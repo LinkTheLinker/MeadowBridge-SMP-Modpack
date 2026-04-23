@@ -1,5 +1,5 @@
 # MeadowBridge-SMP-Modpack
-Official MeadowBridge SMP Modpack List!
+Official MeadowBridge SMP Mod List!
 
 <html><body><ul>
 	<li>Atmosfera</li>
