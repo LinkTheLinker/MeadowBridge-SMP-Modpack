@@ -25,11 +25,13 @@ Official MeadowBridge SMP Mod List!
 	<li>Lithium</li>
 	<li>Lithostitched</li>
 	<li>Lootr</li>
+	<li>Macaw's Furniture</li>
 	<li>Make Bubbles Pop</li>
 	<li>MinecraftCapes</li>
 	<li>Mod Menu</li>
 	<li>ModernFix</li>
 	<li>No Chat Reports</li>
+	<li>Ping View</li>
 	<li>Placeholder API</li>
 	<li>Reese's Sodium Options</li>
 	<li>ScalableLux</li>
